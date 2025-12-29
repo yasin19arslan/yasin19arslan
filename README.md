@@ -1,28 +1,70 @@
 # Yasin Arslan 👋
 
-🎓 Computer Engineering Student  
-💻 Software & Mobile Application Developer  
+🎓 Bilgisayar Mühendisliği Öğrencisi  
+💻 Yazılım & Mobil Uygulama Geliştirici  
 
 ---
 
-## 🚀 Technologies I Use
+## 🚀 Kullandığım Teknolojiler
 
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Mobile:** React Native  
-- **Backend & Database:** Firebase, MongoDB  
-- **Other:** Git, GitHub, REST APIs  
+- **Mobil:** React Native  
+- **Backend & Veritabanı:** Firebase, MongoDB  
+- **Python:** Veri işleme, masaüstü uygulamaları, otomasyon  
+- **Diğer:** Git, GitHub, REST API’ler  
 
 ---
 
-## 📌 Featured Project
+## 🐍 Python Deneyimi
 
-### 🦠 COVID-19 Monthly Data Analysis
-Python project that scrapes official COVID-19 data from the Turkish Ministry of Health website, structures monthly statistics, and exports them to Excel.
+Python ile;
+
+- **Masaüstü uygulamaları** geliştirme (Tkinter)
+- **Web scraping** ile veri çekme
+- Verileri **Excel / CSV** formatında işleme ve dışa aktarma
+- Basit **otomasyon araçları** geliştirme
+- Temiz, okunabilir ve modüler kod yazımı
+
+### Kullandığım Python Kütüphaneleri
+- `requests`
+- `beautifulsoup4`
+- `pandas`
+- `tkinter`
+- `pyqrcode`
+- `openpyxl`
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+### 🔳 QR Kod Oluşturucu (Python Masaüstü Uygulaması)
+Python ve Tkinter kullanılarak geliştirilmiş, kullanıcının girdiği URL’den **SVG formatında QR kod** oluşturan masaüstü uygulaması.
+
+**Özellikler:**
+- Grafik kullanıcı arayüzü (Tkinter)
+- Dosya kaydetme konumu seçme
+- Basit ve kullanıcı dostu yapı
+
+---
+
+### 🦠 COVID-19 Aylık Veri Analizi
+Türkiye Cumhuriyeti Sağlık Bakanlığı’nın resmi web sitesinden COVID-19 verilerini çekerek, aylık istatistikler halinde düzenleyen ve **Excel çıktısı** oluşturan Python projesi.
 
 🔗 **Repository:**  
 https://github.com/yasin19arslan/covid19-aylik-veri-analizi
 
 ---
 
-## 📫 Contact
+## 🎯 Gelişim Hedeflerim
+
+- Python’da ileri seviye konular
+- Veri analizi ve görselleştirme
+- Algoritmalar & Veri Yapıları
+- Yapay Zeka ve Makine Öğrenmesi temelleri
+- Web ve Mobil Geliştirme alanında uzmanlaşma
+
+---
+
+## 📫 İletişim
+
 - GitHub: https://github.com/yasin19arslan
