@@ -32,7 +32,7 @@ Python ile;
 - `tkinter`
 - `pyqrcode`
 - `openpyxl`
-- - `opencv-python`
+- `opencv-python`
 
 ---
 
