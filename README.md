@@ -32,6 +32,7 @@ Python ile;
 - `tkinter`
 - `pyqrcode`
 - `openpyxl`
+- - `opencv-python`
 
 ---
 
@@ -45,6 +46,20 @@ Python ve Tkinter kullanılarak geliştirilmiş, kullanıcının girdiği URL’
 - Dosya kaydetme konumu seçme
 - Basit ve kullanıcı dostu yapı
 
+---
+
+## 🧠 Yüz Algılama Uygulaması (OpenCV + Tkinter)
+
+OpenCV Haar Cascade yöntemi kullanılarak görsel üzerinden yüz algılama yapan masaüstü uygulaması.
+
+**Öne Çıkan Noktalar:**
+
+- Dosya seçme arayüzü
+
+- Algılanan yüzler için bounding box çizimi
+
+- OpenCV ve Tkinter entegrasyonu
+  
 ---
 
 ### 🦠 COVID-19 Aylık Veri Analizi
