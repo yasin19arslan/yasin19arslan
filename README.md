@@ -1,85 +1,50 @@
-# Yasin Arslan 👋
+# Merhaba, Ben Yasin Arslan 👋 
 
-🎓 Bilgisayar Mühendisliği Öğrencisi  
-💻 Yazılım & Mobil Uygulama Geliştirici  
+🎓 **Bilgisayar Mühendisi** 💻 **Full-Stack Developer & AI Enthusiast**
 
----
-
-## 🚀 Kullandığım Teknolojiler
-
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Mobil:** React Native  
-- **Backend & Veritabanı:** Firebase, MongoDB  
-- **Python:** Veri işleme, masaüstü uygulamaları, otomasyon  
-- **Diğer:** Git, GitHub, REST API’ler  
+Teknolojiye olan tutkumla, karmaşık sorunlara modern ve ölçeklenebilir çözümler üretmeyi hedefliyorum. Python otomasyonlarından AI destekli MERN stack uygulamalarına kadar geniş bir yelpazede projeler geliştiriyorum.
 
 ---
 
-## 🐍 Python Deneyimi
+## 🚀 Öne Çıkan Projem (Featured Project)
 
-Python ile;
-
-- **Masaüstü uygulamaları** geliştirme (Tkinter)
-- **Web scraping** ile veri çekme
-- Verileri **Excel / CSV** formatında işleme ve dışa aktarma
-- Basit **otomasyon araçları** geliştirme
-- Temiz, okunabilir ve modüler kod yazımı
-
-### Kullandığım Python Kütüphaneleri
-- `requests`
-- `beautifulsoup4`
-- `pandas`
-- `tkinter`
-- `pyqrcode`
-- `openpyxl`
-- `opencv-python`
+### 🧠 [SmartFlow AI - Akıllı Görev Yönetim Sistemi](https://github.com/yasin19arslan/smartflow-ai-task-manager)
+**MERN Stack** mimarisi üzerine kurulu, **Google Gemini 2.0 Flash AI** entegrasyonuna sahip yeni nesil bir productivity aracı.
+- **AI Persona System:** Görev kategorisine göre (İş, Ders, Hobi) değişen yapay zeka karakteri.
+- **Modern Stack:** React, Node.js, MongoDB ve Express.js ile uçtan uca geliştirme.
+- **RESTful Architecture:** Google AI API'leri ile doğrudan entegrasyon.
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## 🛠️ Yetkinlikler & Teknolojiler
 
-### 🔳 QR Kod Oluşturucu (Python Masaüstü Uygulaması)
-Python ve Tkinter kullanılarak geliştirilmiş, kullanıcının girdiği URL’den **SVG formatında QR kod** oluşturan masaüstü uygulaması.
-
-**Özellikler:**
-- Grafik kullanıcı arayüzü (Tkinter)
-- Dosya kaydetme konumu seçme
-- Basit ve kullanıcı dostu yapı
-
----
-
-## 🧠 Yüz Algılama Uygulaması (OpenCV + Tkinter)
-
-OpenCV Haar Cascade yöntemi kullanılarak görsel üzerinden yüz algılama yapan masaüstü uygulaması.
-
-**Öne Çıkan Noktalar:**
-
-- Dosya seçme arayüzü
-
-- Algılanan yüzler için bounding box çizimi
-
-- OpenCV ve Tkinter entegrasyonu
-  
----
-
-### 🦠 COVID-19 Aylık Veri Analizi
-Türkiye Cumhuriyeti Sağlık Bakanlığı’nın resmi web sitesinden COVID-19 verilerini çekerek, aylık istatistikler halinde düzenleyen ve **Excel çıktısı** oluşturan Python projesi.
-
-🔗 **Repository:**  
-https://github.com/yasin19arslan/covid19-aylik-veri-analizi
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Frontend** | React, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST API Design |
+| **Mobile** | React Native |
+| **Veritabanı** | MongoDB (Atlas), Firebase |
+| **Python** | OpenCV, Pandas, Tkinter, Web Scraping (Bs4), Automation |
+| **Araçlar** | Git, GitHub, Postman, Vercel/Render |
 
 ---
 
-## 🎯 Gelişim Hedeflerim
+## 🐍 Python & Görüntü İşleme Deneyimi
 
-- Python’da ileri seviye konular
-- Veri analizi ve görselleştirme
-- Algoritmalar & Veri Yapıları
-- Yapay Zeka ve Makine Öğrenmesi temelleri
-- Web ve Mobil Geliştirme alanında uzmanlaşma
+- **Görüntü İşleme:** OpenCV kullanarak yüz algılama ve bounding box uygulamaları.
+- **Veri Madenciliği:** BeautifulSoup ve Requests ile dinamik web scraping operasyonları.
+- **Veri Analizi:** Pandas ve Openpyxl ile COVID-19 vb. verilerin işlenmesi ve Excel raporlaması.
+- **GUI Development:** Tkinter ile kullanıcı dostu masaüstü araçları (QR Code Generator vb.).
 
 ---
+
+
+## 🎯 Gelişim Odak Noktalarım
+
+- **Yapay Zeka:** LLM (Large Language Models) ve Prompt Engineering teknikleri.
+- **Mimariler:** Microservices ve Clean Architecture prensipleri.
+- **Mobil:** Cross-platform uygulama geliştirme süreçlerinde derinleşme.
 
 ## 📫 İletişim
 
-- GitHub: https://github.com/yasin19arslan
+- **GitHub:** [yasin19arslan](https://github.com/yasin19arslan)
