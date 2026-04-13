@@ -1,4 +1,4 @@
-# Merhaba, Ben Yasin Arslan 👋 
+# Merhaba, Ben Yasin Arslan 👋
 
 🎓 **Bilgisayar Mühendisi** 💻 **Full-Stack Developer & AI Enthusiast**
 
@@ -6,10 +6,14 @@ Teknolojiye olan tutkumla, karmaşık sorunlara modern ve ölçeklenebilir çöz
 
 ---
 
-## 🚀 Öne Çıkan Projem (Featured Project)
+## 🚀 Öne Çıkan Projem
 
 ### 🧠 [SmartFlow AI - Akıllı Görev Yönetim Sistemi](https://github.com/yasin19arslan/smartflow-ai-task-manager)
-**MERN Stack** mimarisi üzerine kurulu, **Google Gemini 2.0 Flash AI** entegrasyonuna sahip yeni nesil bir productivity aracı.
+
+**MERN Stack** mimarisi üzerine kurulu, **Google Gemini 2.0 Flash AI** entegrasyonuna sahip üretkenlik uygulaması.
+
+🌐 **Canlı Demo:** [smartflow-ai-task-manager-zkkh.vercel.app](https://smartflow-ai-task-manager-zkkh.vercel.app)
+
 - **AI Persona System:** Görev kategorisine göre (İş, Ders, Hobi) değişen yapay zeka karakteri.
 - **Modern Stack:** React, Node.js, MongoDB ve Express.js ile uçtan uca geliştirme.
 - **RESTful Architecture:** Google AI API'leri ile doğrudan entegrasyon.
@@ -25,7 +29,8 @@ Teknolojiye olan tutkumla, karmaşık sorunlara modern ve ölçeklenebilir çöz
 | **Mobile** | React Native |
 | **Veritabanı** | MongoDB (Atlas), Firebase |
 | **Python** | OpenCV, Pandas, Tkinter, Web Scraping (Bs4), Automation |
-| **Araçlar** | Git, GitHub, Postman, Vercel/Render |
+| **Donanım** | Arduino, Raspberry Pi, IoT Sistemleri |
+| **Araçlar** | Git, GitHub, Postman, Vercel, Render |
 
 ---
 
@@ -38,13 +43,16 @@ Teknolojiye olan tutkumla, karmaşık sorunlara modern ve ölçeklenebilir çöz
 
 ---
 
-
 ## 🎯 Gelişim Odak Noktalarım
 
-- **Yapay Zeka:** LLM (Large Language Models) ve Prompt Engineering teknikleri.
+- **Yapay Zeka:** LLM ve Prompt Engineering teknikleri.
+- **IoT:** Arduino ve Raspberry Pi ile akıllı sistem geliştirme.
 - **Mimariler:** Microservices ve Clean Architecture prensipleri.
-- **Mobil:** Cross-platform uygulama geliştirme süreçlerinde derinleşme.
+
+---
 
 ## 📫 İletişim
 
-- **GitHub:** [yasin19arslan](https://github.com/yasin19arslan)
+- 📧 **Email:** [EMAIL ADRESIN]
+- 💼 **LinkedIn:** [LinkedIn ADRESIN]
+- 🐙 **GitHub:** [yasin19arslan](https://github.com/yasin19arslan)
