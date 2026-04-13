@@ -53,6 +53,6 @@ Teknolojiye olan tutkumla, karmaşık sorunlara modern ve ölçeklenebilir çöz
 
 ## 📫 İletişim
 
-- 📧 **Email:** [EMAIL ADRESIN]
-- 💼 **LinkedIn:** [LinkedIn ADRESIN]
+- 📧 **Email:** yasin19arslan07@gmail.com
+- 💼 **LinkedIn:** [Yasin Arslan](https://www.linkedin.com/in/yasin-arslan-260118260/)
 - 🐙 **GitHub:** [yasin19arslan](https://github.com/yasin19arslan)
