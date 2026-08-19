@@ -1,22 +1,20 @@
 # Merhaba, Ben Yasin Arslan 👋
 
-🎓 **Bilgisayar Mühendisi** 💻 **Full-Stack Developer & AI Enthusiast**
+🎓 **Bilgisayar Mühendisi** | 💻 **Full-Stack Software Engineer**
 
-Teknolojiye olan tutkumla, karmaşık sorunlara modern ve ölçeklenebilir çözümler üretmeyi hedefliyorum. Python otomasyonlarından AI destekli MERN stack uygulamalarına kadar geniş bir yelpazede projeler geliştiriyorum.
+Modern web teknolojileri ve yapay zeka entegrasyonlarıyla ölçeklenebilir, tip güvenli ve performanslı web uygulamaları geliştiriyorum. Ağırlıklı olarak **TypeScript, React, Node.js ve SQL/NoSQL** ekosisteminde uçtan uca çözümler üretiyorum.
 
 ---
 
-## 🚀 Öne Çıkan Projem
+## 🚀 Öne Çıkan Projeler
 
 ### 🧠 [SmartFlow AI - Akıllı Görev Yönetim Sistemi](https://github.com/yasin19arslan/smartflow-ai-task-manager)
-
-**MERN Stack** mimarisi üzerine kurulu, **Google Gemini 2.0 Flash AI** entegrasyonuna sahip üretkenlik uygulaması.
+**MERN Stack** ve **Google Gemini AI** entegrasyonuna sahip yeni nesil üretkenlik platformu.
 
 🌐 **Canlı Demo:** [smartflow-ai-task-manager-zkkh.vercel.app](https://smartflow-ai-task-manager-zkkh.vercel.app)
-
-- **AI Persona System:** Görev kategorisine göre (İş, Ders, Hobi) değişen yapay zeka karakteri.
-- **Modern Stack:** React, Node.js, MongoDB ve Express.js ile uçtan uca geliştirme.
-- **RESTful Architecture:** Google AI API'leri ile doğrudan entegrasyon.
+- **AI Entegrasyonu:** Görev kategorisine göre bağlamsal öneriler üreten dinamik LLM API mimarisi.
+- **Full Stack Mimari:** React, Node.js, Express ve MongoDB Atlas ile RESTful veri akışı.
+- **Güvenli Altyapı:** API anahtarlarının sunucu tarafında korunduğu backend middleware katmanı.
 
 ---
 
@@ -24,35 +22,25 @@ Teknolojiye olan tutkumla, karmaşık sorunlara modern ve ölçeklenebilir çöz
 
 | Alan | Teknolojiler |
 | :--- | :--- |
-| **Frontend** | React, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST API Design |
-| **Mobile** | React Native |
-| **Veritabanı** | MongoDB (Atlas), Firebase |
-| **Python** | OpenCV, Pandas, Tkinter, Web Scraping (Bs4), Automation |
-| **Donanım** | Arduino, Raspberry Pi, IoT Sistemleri |
-| **Araçlar** | Git, GitHub, Postman, Vercel, Render |
+| **Diller** | TypeScript, JavaScript (ES6+), Python, SQL |
+| **Frontend** | React, Next.js / Vite, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, RESTful API Design, JWT Auth |
+| **Veritabanı** | PostgreSQL, MongoDB (Atlas), Firebase |
+| **Geliştirme & Dağıtım** | Git, GitHub, Docker, Postman, Vercel, Render |
+| **Ek Beceriler** | React Native, Python (OpenCV, Pandas, Scraping), IoT Sistemleri |
 
 ---
 
-## 🐍 Python & Görüntü İşleme Deneyimi
+## 🎯 Gelişim & Mühendislik Odak Noktalarım
 
-- **Görüntü İşleme:** OpenCV kullanarak yüz algılama ve bounding box uygulamaları.
-- **Veri Madenciliği:** BeautifulSoup ve Requests ile dinamik web scraping operasyonları.
-- **Veri Analizi:** Pandas ve Openpyxl ile COVID-19 vb. verilerin işlenmesi ve Excel raporlaması.
-- **GUI Development:** Tkinter ile kullanıcı dostu masaüstü araçları (QR Code Generator vb.).
-
----
-
-## 🎯 Gelişim Odak Noktalarım
-
-- **Yapay Zeka:** LLM ve Prompt Engineering teknikleri.
-- **IoT:** Arduino ve Raspberry Pi ile akıllı sistem geliştirme.
-- **Mimariler:** Microservices ve Clean Architecture prensipleri.
+- **Mimari:** Katmanlı Mimari (Controller-Service-Repository), Clean Code ve REST standartları.
+- **Veri & Güvenlik:** İlişkisel veritabanı optimizasyonu (PostgreSQL) ve RBAC (Rol Tabanlı Yetkilendirme).
+- **Yapay Zeka:** LLM API entegrasyonları ve akıllı ajan mimarileri.
 
 ---
 
 ## 📫 İletişim
 
 - 📧 **Email:** yasin19arslan07@gmail.com
-- 💼 **LinkedIn:** [Yasin Arslan](https://www.linkedin.com/in/yasin-arslan-260118260/)
-- 🐙 **GitHub:** [yasin19arslan](https://github.com/yasin19arslan)
+- 💼 **LinkedIn:** [linkedin.com/in/yasin-arslan-260118260](https://www.linkedin.com/in/yasin-arslan-260118260/)
+- 🐙 **GitHub:** [github.com/yasin19arslan](https://github.com/yasin19arslan)
